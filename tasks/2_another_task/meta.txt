@@ -5,7 +5,7 @@ executionType=tests-execution/simple-execution
 io_console=True/False
 file_upload=True/False
 requiresInput=True/False
-
+task_id=advanced_mathOperations_anotherTask
 
 template=True/False
 

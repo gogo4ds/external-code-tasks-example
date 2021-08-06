@@ -7,14 +7,10 @@ file_upload=True/False
 requiresInput=True/False
 task_id=advanced_mathOperations_anotherTask
 
-template=True/False
-
-```
+template=```
 This is the template, if "template=True"
 ```
 
-adapter=True
-
-```
+adapter=```
 This is the adapter, if "adapter=True"
 ```
